@@ -1,7 +1,5 @@
 # Ashtray / DevOps & Automation Lab
 
-## 👀 Profile Views
-
 ![Views](https://komarev.com/ghpvc/?username=ashtray01&color=blue)
 
 ---
