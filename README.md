@@ -2,21 +2,15 @@
 
 ![Views](https://komarev.com/ghpvc/?username=ashtray01&color=blue)
 
----
-
 ## GitHub Overview
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ashtray01&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtray01&layout=compact&theme=tokyonight)
 
----
-
 ## 📈 Activity Graph
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ashtray01&theme=tokyo-night)
-
----
 
 ## 🧩 Active Projects
 
@@ -26,8 +20,6 @@
 - Telegram automation tools
 - Infrastructure scripts (Proxmox / Linux)
 - Local AI / Whisper pipelines
-
----
 
 ## ⚙️ Tech Stack
 
