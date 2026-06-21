@@ -1,4 +1,4 @@
-# Ashtray / DevOps & Automation Lab
+# Ashtray's Lab
 
 ![Views](https://komarev.com/ghpvc/?username=ashtray01&color=blue)
 
