@@ -29,20 +29,20 @@
 
 | Project | Что это | Stack |
 |---|---|---|
-| **[🖨️ PrinterOne](https://github.com/ashtray01/printerone)** | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отправляет их напрямую в Windows-принтер | `Go` `Wails` `Windows` `TCP/RAW` |
-| **[🐧 debian_cheat](https://github.com/ashtray01/debian_cheat)** | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages | `HTML` `CSS` `JS` `Debian` |
-| **[⏱ wrktmr](https://github.com/ashtray01/wrktmr)** | Work Timer: задачи, учёт времени, статистика, ICS/CalDAV; вырос из CLI в PyQt6 GUI | `Python` `PyQt6` `CalDAV` |
-| **[⚔️ mc-citywars](https://github.com/ashtray01/mc-citywars)** | Своя механика городских войн для Minecraft + Towny | `Java` `Paper/Purpur` `Towny` |
-| **[🤖 secretary-tgbot](https://github.com/ashtray01/secretary-tgbot)** | Telegram Business-ассистент, который напоминает о клиентах без ответа | `Python` `Telegram` `SQLite` |
-| **[🧩 logmrgr](https://github.com/ashtray01/logmrgr)** | Объединение больших log/json-файлов в единую временную линию событий | `Python` `multiprocessing` `heapq` |
-| **[🏰 txtgame](https://github.com/ashtray01/txtgame)** | Терминальная RPG «Башни Судьбы»: классы, боссы, предметы, сохранения | `Python` `CLI` |
-| **[🧠 rmmbr](https://github.com/ashtray01/rmmbr)** | Тренажёр для запоминания определений: извлекает их из DOCX, XLSX, PDF и TXT и периодически показывает пользователю | `Python` `Tkinter` `python-docx` `pdfplumber` `openpyxl` |
-| **[🔐 pwdg](https://github.com/ashtray01/pwdg)** | Компактный GUI-генератор паролей с настройкой набора символов и темами интерфейса | `Python` `Tkinter` |
-| **[🔤 ascii-captcha](https://github.com/ashtray01/ascii-captcha)** | Простой генератор ASCII CAPTCHA без сторонних библиотек | `Python` `ASCII` `stdlib` |
-| **[🧱 trr-crpr](https://github.com/ashtray01/trr-crpr)** | Мемный Minecraft resource pack с кастомными моделями, текстурами и звуками | `Minecraft` `Resource Pack` `ETF` |
-| **[🇨🇳 CPP-calc](https://github.com/ashtray01/CPP-calc)** | Переработанный Windows-калькулятор с китайским интерфейсом, китайскими цифрами, кастомным UI и встроенными медиа | `Go` `Walk` `WinAPI` `embed.FS` |
-| **[🐱 clckbngct](https://github.com/ashtray01/clckbngct)** | Автокликер для Bongo Cat Steam с горячей клавишей, счётчиком кликов и статистикой | `Go` `Fyne` `WinAPI` `Hotkey` |
-| **[📥 vdnldr](https://github.com/ashtray01/vdnldr)** | GUI-загрузчик видео и плейлистов с YouTube, VK, Rutube, TikTok и других платформ на базе yt-dlp | `Python` `Tkinter` `yt-dlp` |
+| **[PrinterOne](https://github.com/ashtray01/printerone)** | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отправляет их напрямую в Windows-принтер | `Go` `Wails` `Windows` `TCP/RAW` |
+| **[debian_cheat](https://github.com/ashtray01/debian_cheat)** | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages | `HTML` `CSS` `JS` `Debian` |
+| **[wrktmr](https://github.com/ashtray01/wrktmr)** | Work Timer: задачи, учёт времени, статистика, ICS/CalDAV; вырос из CLI в PyQt6 GUI | `Python` `PyQt6` `CalDAV` |
+| **[mc-citywars](https://github.com/ashtray01/mc-citywars)** | Своя механика городских войн для Minecraft + Towny | `Java` `Paper/Purpur` `Towny` |
+| **[secretary-tgbot](https://github.com/ashtray01/secretary-tgbot)** | Telegram Business-ассистент, который напоминает о клиентах без ответа | `Python` `Telegram` `SQLite` |
+| **[logmrgr](https://github.com/ashtray01/logmrgr)** | Объединение больших log/json-файлов в единую временную линию событий | `Python` `multiprocessing` `heapq` |
+| **[txtgame](https://github.com/ashtray01/txtgame)** | Терминальная RPG «Башни Судьбы»: классы, боссы, предметы, сохранения | `Python` `CLI` |
+| **[rmmbr](https://github.com/ashtray01/rmmbr)** | Тренажёр для запоминания определений: извлекает их из DOCX, XLSX, PDF и TXT и периодически показывает пользователю | `Python` `Tkinter` `python-docx` `pdfplumber` `openpyxl` |
+| **[pwdg](https://github.com/ashtray01/pwdg)** | Компактный GUI-генератор паролей с настройкой набора символов и темами интерфейса | `Python` `Tkinter` |
+| **[ascii-captcha](https://github.com/ashtray01/ascii-captcha)** | Простой генератор ASCII CAPTCHA без сторонних библиотек | `Python` `ASCII` `stdlib` |
+| **[trr-crpr](https://github.com/ashtray01/trr-crpr)** | Мемный Minecraft resource pack с кастомными моделями, текстурами и звуками | `Minecraft` `Resource Pack` `ETF` |
+| **[CPP-calc](https://github.com/ashtray01/CPP-calc)** | Переработанный Windows-калькулятор с китайским интерфейсом, китайскими цифрами, кастомным UI и встроенными медиа | `Go` `Walk` `WinAPI` `embed.FS` |
+| **[clckbngct](https://github.com/ashtray01/clckbngct)** | Автокликер для Bongo Cat Steam с горячей клавишей, счётчиком кликов и статистикой | `Go` `Fyne` `WinAPI` `Hotkey` |
+| **[vdnldr](https://github.com/ashtray01/vdnldr)** | GUI-загрузчик видео и плейлистов с YouTube, VK, Rutube, TikTok и других платформ на базе yt-dlp | `Python` `Tkinter` `yt-dlp` |
 
 ---
 
