@@ -48,12 +48,56 @@
 
 ## 🖥 Project snapshots
 
+## 🖼️ Projects Preview
+
 <p align="center">
+  <a href="https://github.com/ashtray01/printerone">
+    <img src="https://raw.githubusercontent.com/ashtray01/printerone/master/assets/screenshots/server.png" width="49%" alt="PrinterOne">
+  </a>
   <a href="https://github.com/ashtray01/debian_cheat">
     <img src="https://raw.githubusercontent.com/ashtray01/debian_cheat/main/Screenshot_1.jpg" width="49%" alt="Debian Cheat">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ashtray01/wrktmr">
     <img src="https://raw.githubusercontent.com/ashtray01/wrktmr/main/images/scr034.5.png" width="49%" alt="wrktmr">
+  </a>
+  <a href="https://github.com/ashtray01/rmmbr">
+    <img src="https://raw.githubusercontent.com/ashtray01/rmmbr/main/scr/Screenshot_1.png" width="49%" alt="rmmbr">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashtray01/CPP-calc">
+    <img src="https://raw.githubusercontent.com/ashtray01/CPP-calc/main/docs/interface.png" width="49%" alt="CPP Calc">
+  </a>
+  <a href="https://github.com/ashtray01/logmrgr">
+    <img src="https://raw.githubusercontent.com/ashtray01/logmrgr/main/Screenshot_6.png" width="49%" alt="logmrgr">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashtray01/printerone">
+    <img src="https://raw.githubusercontent.com/ashtray01/printerone/master/assets/screenshots/test-client.png" width="49%" alt="PrinterOne Test Client">
+  </a>
+  <a href="https://github.com/ashtray01/rmmbr">
+    <img src="https://raw.githubusercontent.com/ashtray01/rmmbr/main/scr/Screenshot_2.png" width="49%" alt="rmmbr interface">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashtray01/CPP-calc">
+    <img src="https://raw.githubusercontent.com/ashtray01/CPP-calc/main/docs/calculation.png" width="49%" alt="CPP Calc calculation">
+  </a>
+  <a href="https://github.com/ashtray01/printerone">
+    <img src="https://raw.githubusercontent.com/ashtray01/printerone/master/assets/screenshots/printerone-xp-interface.png" width="49%" alt="PrinterOne Windows XP">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashtray01/logmrgr">
+    <img src="https://raw.githubusercontent.com/ashtray01/logmrgr/main/logmrgr031.10.gif" width="98%" alt="logmrgr demo">
   </a>
 </p>
 
