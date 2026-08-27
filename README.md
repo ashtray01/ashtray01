@@ -29,6 +29,7 @@
 
 | Project | Что это | Stack |
 |---|---|---|
+| **[DirectumLogViewer](https://github.com/DirectumCompany/DirectumLogViewer)** | Утилита для просмотра JSON-логов сервисов Directum RX: фильтрация по тенанту, уровню и тексту, поиск и подсветка записей Debug и Error | `C#` `WPF` `JSON` |
 | **[PrinterOne](https://github.com/ashtray01/printerone)** | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отправляет их напрямую в Windows-принтер | `Go` `Wails` `Windows` `TCP/RAW` |
 | **[debian_cheat](https://github.com/ashtray01/debian_cheat)** | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages | `HTML` `CSS` `JS` `Debian` |
 | **[wrktmr](https://github.com/ashtray01/wrktmr)** | Work Timer: задачи, учёт времени, статистика, ICS/CalDAV; вырос из CLI в PyQt6 GUI | `Python` `PyQt6` `CalDAV` |
@@ -84,6 +85,14 @@
         <img src="https://raw.githubusercontent.com/ashtray01/logmrgr/main/Screenshot_6.png" width="100%" alt="logmrgr">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/DirectumCompany/DirectumLogViewer">
+        <img src="https://raw.githubusercontent.com/DirectumCompany/DirectumLogViewer/main/LogViewer/Resources/horse.png" width="100%" alt="Directum Log Viewer">
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center"></td>
   </tr>
 </table>
 
