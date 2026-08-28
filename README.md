@@ -37,7 +37,6 @@
 | **[secretary-tgbot](https://github.com/ashtray01/secretary-tgbot)** | Telegram Business-ассистент, который напоминает о клиентах без ответа | `Python` `Telegram` `SQLite` |
 | **[logmrgr](https://github.com/ashtray01/logmrgr)** | Объединение больших log/json-файлов в единую временную линию событий | `Python` `multiprocessing` `heapq` |
 | **[txtgame](https://github.com/ashtray01/txtgame)** | Терминальная RPG «Башни Судьбы»: классы, боссы, предметы, сохранения | `Python` `CLI` |
-| **[rmmbr](https://github.com/ashtray01/rmmbr)** | Тренажёр для запоминания определений: извлекает их из DOCX, XLSX, PDF и TXT и периодически показывает пользователю | `Python` `Tkinter` `python-docx` `pdfplumber` `openpyxl` |
 | **[pwdg](https://github.com/ashtray01/pwdg)** | Компактный GUI-генератор паролей с настройкой набора символов и темами интерфейса | `Python` `Tkinter` |
 | **[ascii-captcha](https://github.com/ashtray01/ascii-captcha)** | Простой генератор ASCII CAPTCHA без сторонних библиотек | `Python` `ASCII` `stdlib` |
 | **[trr-crpr](https://github.com/ashtray01/trr-crpr)** | Мемный Minecraft resource pack с кастомными моделями, текстурами и звуками | `Minecraft` `Resource Pack` `ETF` |
