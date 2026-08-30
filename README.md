@@ -63,18 +63,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/ashtray01/wrktmr">
-        <img src="https://raw.githubusercontent.com/ashtray01/wrktmr/main/images/scr034.5.png" width="100%" alt="wrktmr">
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/ashtray01/rmmbr">
-        <img src="https://raw.githubusercontent.com/ashtray01/rmmbr/main/scr/Screenshot_1.png" width="100%" alt="rmmbr">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
       <a href="https://github.com/ashtray01/CPP-calc">
         <img src="https://raw.githubusercontent.com/ashtray01/CPP-calc/main/docs/interface.png" width="100%" alt="CPP Calc">
       </a>
