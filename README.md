@@ -19,9 +19,9 @@
 
 ## 👋 About
 
-Делаю инструменты, которые обычно начинаются с мысли **«мне это самому нужно»**, а потом превращаются в отдельные проекты.
+Делаю инструменты, которые обычно начинаются с мысли **«мне это самому нужно»**, а потом превращаются в отдель�[...]
 
-Основные направления: **Linux / infrastructure, Python automation, Telegram, локальные сервисы, небольшие desktop/web-инструменты и эксперименты с AI.**
+Основные направления: **Linux / infrastructure, Python automation, Telegram, локальные сервисы, небольшие desktop/web-инструменты и экспер[...]
 
 ---
 
@@ -29,20 +29,20 @@
 
 | Project | Что это | Stack |
 |---|---|---|
-| **[DirectumLogViewer](https://github.com/ashtray01/DirectumLogViewer)** | Rust-порт утилиты для просмотра JSON-логов сервисов Directum RX: фильтрация, поиск и подсветка записей Debug, Warn и Error | `Rust` `egui` `JSON` |
-| **[PrinterOne](https://github.com/ashtray01/printerone)** | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отправляет их напрямую в Windows-принтер | `Go` `Wails` `Windows` `TCP/RAW` |
-| **[debian_cheat](https://github.com/ashtray01/debian_cheat)** | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages | `HTML` `CSS` `JS` `Debian` |
-| **[wrktmr](https://github.com/ashtray01/wrktmr)** | Work Timer: задачи, учёт времени, статистика, ICS/CalDAV; вырос из CLI в PyQt6 GUI | `Python` `PyQt6` `CalDAV` |
+| **[DirectumLogViewer](https://github.com/ashtray01/DirectumLogViewer)** | Rust-порт утилиты для просмотра JSON-логов сервисов Directum RX: фильтраци�[...]
+| **[PrinterOne](https://github.com/ashtray01/printerone)** | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отп[...]
+| **[debian_cheat](https://github.com/ashtray01/debian_cheat)** | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages | `HTML` `CSS[...]
+| **[wrktmr](https://github.com/ashtray01/wrktmr)** | Work Timer: задачи, учёт времени, статистика, ICS/CalDAV; вырос из CLI в PyQt6 GUI | `Python` `PyQt6` `CalD[...]
 | **[mc-citywars](https://github.com/ashtray01/mc-citywars)** | Своя механика городских войн для Minecraft + Towny | `Java` `Paper/Purpur` `Towny` |
-| **[secretary-tgbot](https://github.com/ashtray01/secretary-tgbot)** | Telegram Business-ассистент, который напоминает о клиентах без ответа | `Python` `Telegram` `SQLite` |
-| **[logmrgr](https://github.com/ashtray01/logmrgr)** | Объединение больших log/json-файлов в единую временную линию событий | `Python` `multiprocessing` `heapq` |
-| **[txtgame](https://github.com/ashtray01/txtgame)** | Терминальная RPG «Башни Судьбы»: классы, боссы, предметы, сохранения | `Python` `CLI` |
-| **[pwdg](https://github.com/ashtray01/pwdg)** | Компактный GUI-генератор паролей с настройкой набора символов и темами интерфейса | `Python` `Tkinter` |
+| **[secretary-tgbot](https://github.com/ashtray01/secretary-tgbot)** | Telegram Business-ассистент, который напоминает о клиентах без ответа | `Python`[...]
+| **[logmrgr](https://github.com/ashtray01/logmrgr)** | Объединение больших log/json-файлов в единую временную линию событий | `Python` `multipr[...]
+| **[txtgame](https://github.com/ashtray01/txtgame)** | Терминальная RPG «Башни Судьбы»: классы, боссы, предметы, сохранения | `Python` `CLI` [...]
+| **[pwdg](https://github.com/ashtray01/pwdg)** | Компактный GUI-генератор паролей с настройкой набора символов и темами интерфей�[...]
 | **[ascii-captcha](https://github.com/ashtray01/ascii-captcha)** | Простой генератор ASCII CAPTCHA без сторонних библиотек | `Python` `ASCII` `stdlib` |
-| **[trr-crpr](https://github.com/ashtray01/trr-crpr)** | Мемный Minecraft resource pack с кастомными моделями, текстурами и звуками | `Minecraft` `Resource Pack` `ETF` |
-| **[CPP-calc](https://github.com/ashtray01/CPP-calc)** | Переработанный Windows-калькулятор с китайским интерфейсом, китайскими цифрами, кастомным UI и встроенными медиа | `Go` `Walk` `WinAPI` `embed.FS` |
-| **[clckbngct](https://github.com/ashtray01/clckbngct)** | Автокликер для Bongo Cat Steam с горячей клавишей, счётчиком кликов и статистикой | `Go` `Fyne` `WinAPI` `Hotkey` |
-| **[vdnldr](https://github.com/ashtray01/vdnldr)** | GUI-загрузчик видео и плейлистов с YouTube, VK, Rutube, TikTok и других платформ на базе yt-dlp | `Python` `Tkinter` `yt-dlp` |
+| **[trr-crpr](https://github.com/ashtray01/trr-crpr)** | Мемный Minecraft resource pack с кастомными моделями, текстурами и звуками | `Minecraft` `Resou[...]
+| **[CPP-calc](https://github.com/ashtray01/CPP-calc)** | Переработанный Windows-калькулятор с китайским интерфейсом, китайскими цифра�[...]
+| **[clckbngct](https://github.com/ashtray01/clckbngct)** | Автокликер для Bongo Cat Steam с горячей клавишей, счётчиком кликов и статистико�[...]
+| **[vdnldr](https://github.com/ashtray01/vdnldr)** | GUI-загрузчик видео и плейлистов с YouTube, VK, Rutube, TikTok и других платформ на базе yt-dlp[...]
 
 ---
 
@@ -79,7 +79,11 @@
         <img src="https://raw.githubusercontent.com/ashtray01/DirectumLogViewer/main/docs/screenshots/light-error.png" width="100%" alt="Directum Log Viewer">
       </a>
     </td>
-    <td width="50%" valign="top" align="center"></td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ashtray01/DirectumLogViewer">
+        <img src="https://github.com/ashtray01/DirectumLogViewer/raw/main/docs/screenshots/ario-log.png" width="100%" alt="Directum Log Viewer">
+      </a>
+    </td>
   </tr>
 </table>
 
