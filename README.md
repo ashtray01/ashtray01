@@ -8,10 +8,10 @@
 
 `coding means your wishes`
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashtray01-181717?style=flat-square&logo=github)](https://github.com/ashtray01)
-[![Website](https://img.shields.io/badge/ashcloud.ru-website-2f81f7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ashcloud.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@mem04k-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mem04k)
-![Profile views](https://komarev.com/ghpvc/?username=ashtray01&style=flat-square&color=555555)
+[![GitHub](https://img.shields.io/badge/GitHub-ashtray01-181717?style=flat-square\&logo=github)](https://github.com/ashtray01)
+[![Website](https://img.shields.io/badge/ashcloud.ru-website-2f81f7?style=flat-square\&logo=firefoxbrowser\&logoColor=white)](https://ashcloud.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@mem04k-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/mem04k)
+![Profile views](https://komarev.com/ghpvc/?username=ashtray01\&style=flat-square\&color=555555)
 
 </div>
 
@@ -19,30 +19,30 @@
 
 ## 👋 About
 
-Делаю инструменты, которые обычно начинаются с мысли **«мне это самому нужно»**, а потом превращаются в отдель�[...]
+Делаю инструменты, которые обычно начинаются с мысли **«мне это самому нужно»**, а потом превращаются в отдельные проекты.
 
-Основные направления: **Linux / infrastructure, Python automation, Telegram, локальные сервисы, небольшие desktop/web-инструменты и экспер[...]
+Основные направления: **Linux / infrastructure, Python automation, Telegram, локальные сервисы, небольшие desktop/web-инструменты и эксперименты.**
 
 ---
 
 ## 🚀 Featured projects
 
-| Project | Что это | Stack |
-|---|---|---|
-| **[DirectumLogViewer](https://github.com/ashtray01/DirectumLogViewer)** | Rust-порт утилиты для просмотра JSON-логов сервисов Directum RX: фильтраци�[...]
-| **[PrinterOne](https://github.com/ashtray01/printerone)** | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отп[...]
-| **[debian_cheat](https://github.com/ashtray01/debian_cheat)** | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages | `HTML` `CSS[...]
-| **[wrktmr](https://github.com/ashtray01/wrktmr)** | Work Timer: задачи, учёт времени, статистика, ICS/CalDAV; вырос из CLI в PyQt6 GUI | `Python` `PyQt6` `CalD[...]
-| **[mc-citywars](https://github.com/ashtray01/mc-citywars)** | Своя механика городских войн для Minecraft + Towny | `Java` `Paper/Purpur` `Towny` |
-| **[secretary-tgbot](https://github.com/ashtray01/secretary-tgbot)** | Telegram Business-ассистент, который напоминает о клиентах без ответа | `Python`[...]
-| **[logmrgr](https://github.com/ashtray01/logmrgr)** | Объединение больших log/json-файлов в единую временную линию событий | `Python` `multipr[...]
-| **[txtgame](https://github.com/ashtray01/txtgame)** | Терминальная RPG «Башни Судьбы»: классы, боссы, предметы, сохранения | `Python` `CLI` [...]
-| **[pwdg](https://github.com/ashtray01/pwdg)** | Компактный GUI-генератор паролей с настройкой набора символов и темами интерфей�[...]
-| **[ascii-captcha](https://github.com/ashtray01/ascii-captcha)** | Простой генератор ASCII CAPTCHA без сторонних библиотек | `Python` `ASCII` `stdlib` |
-| **[trr-crpr](https://github.com/ashtray01/trr-crpr)** | Мемный Minecraft resource pack с кастомными моделями, текстурами и звуками | `Minecraft` `Resou[...]
-| **[CPP-calc](https://github.com/ashtray01/CPP-calc)** | Переработанный Windows-калькулятор с китайским интерфейсом, китайскими цифра�[...]
-| **[clckbngct](https://github.com/ashtray01/clckbngct)** | Автокликер для Bongo Cat Steam с горячей клавишей, счётчиком кликов и статистико�[...]
-| **[vdnldr](https://github.com/ashtray01/vdnldr)** | GUI-загрузчик видео и плейлистов с YouTube, VK, Rutube, TikTok и других платформ на базе yt-dlp[...]
+| Project                                                                 | Что это                                                                                                         | Stack                              |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[DirectumLogViewer](https://github.com/ashtray01/DirectumLogViewer)** | Быстрый нативный просмотрщик больших логов Directum RX: фильтрация, live tail, regex, trace ID, поиск и экспорт | `Rust` `Windows`                   |
+| **[PrinterOne](https://github.com/ashtray01/printerone)**               | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отправляет их на локальный принтер | `Go` `Windows` `TCP`               |
+| **[debian_cheat](https://github.com/ashtray01/debian_cheat)**           | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages                                 | `HTML` `CSS` `JavaScript`          |
+| **[wrktmr](https://github.com/ashtray01/wrktmr)**                       | Work Timer: задачи, учёт времени, статистика, ICS/CalDAV; вырос из CLI в PyQt6 GUI                              | `Python` `PyQt6` `CalDAV`          |
+| **[mc-citywars](https://github.com/ashtray01/mc-citywars)**             | Своя механика городских войн для Minecraft + Towny                                                              | `Java` `Paper/Purpur` `Towny`      |
+| **[secretary-tgbot](https://github.com/ashtray01/secretary-tgbot)**     | Telegram Business-ассистент, который напоминает о клиентах, оставшихся без ответа                               | `Python` `Telegram` `SQLite`       |
+| **[logmrgr](https://github.com/ashtray01/logmrgr)**                     | Объединение больших LOG/JSON-файлов в единую временную линию событий                                            | `Python` `multiprocessing` `heapq` |
+| **[txtgame](https://github.com/ashtray01/txtgame)**                     | Терминальная RPG «Башни Судьбы»: классы, боссы, предметы, события и сохранения                                  | `Python` `CLI` `ASCII`             |
+| **[pwdg](https://github.com/ashtray01/pwdg)**                           | Компактный GUI-генератор паролей с настройкой набора символов и интерфейса                                      | `Python` `GUI`                     |
+| **[ascii-captcha](https://github.com/ashtray01/ascii-captcha)**         | Простой генератор ASCII CAPTCHA без сторонних библиотек                                                         | `Python` `ASCII` `stdlib`          |
+| **[trr-crpr](https://github.com/ashtray01/trr-crpr)**                   | Мемный Minecraft resource pack с кастомными моделями, текстурами и звуками                                      | `Minecraft` `Resource Pack`        |
+| **[CPP-calc](https://github.com/ashtray01/CPP-calc)**                   | Переработанный Windows-калькулятор с китайским интерфейсом и китайскими цифрами                                 | `Go` `Windows`                     |
+| **[clckbngct](https://github.com/ashtray01/clckbngct)**                 | Автокликер для Bongo Cat Steam с горячей клавишей и минимальным GUI                                             | `Go` `GUI`                         |
+| **[vdnldr](https://github.com/ashtray01/vdnldr)**                       | GUI-загрузчик видео и плейлистов с YouTube, VK, Rutube, TikTok и других платформ                                | `Python` `yt-dlp` `GUI`            |
 
 ---
 
@@ -81,7 +81,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ashtray01/DirectumLogViewer">
-        <img src="https://github.com/ashtray01/DirectumLogViewer/raw/main/docs/screenshots/ario-log.png" width="100%" alt="Directum Log Viewer">
+        <img src="https://raw.githubusercontent.com/ashtray01/DirectumLogViewer/main/docs/screenshots/ario-log.png" width="100%" alt="Directum Log Viewer ARIO">
       </a>
     </td>
   </tr>
@@ -103,6 +103,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 </p>
 
 ---
