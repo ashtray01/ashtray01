@@ -17,15 +17,11 @@
 
 ---
 
-## 👋 About
-
 Делаю инструменты, которые обычно начинаются с мысли **«мне это самому нужно»**, а потом превращаются в отдельные проекты.
 
 Основные направления: **Linux / infrastructure, Python automation, Telegram, локальные сервисы, небольшие desktop/web-инструменты и эксперименты.**
 
 ---
-
-## 🚀 Featured projects
 
 | Project                                                                 | Что это                                                                                                         | Stack                              |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
@@ -45,9 +41,6 @@
 | **[vdnldr](https://github.com/ashtray01/vdnldr)**                       | GUI-загрузчик видео и плейлистов с YouTube, VK, Rutube, TikTok и других платформ                                | `Python` `yt-dlp` `GUI`            |
 
 ---
-
-## 🖼️ Projects Preview
-
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -88,9 +81,6 @@
 </table>
 
 ---
-
-## ⚙️ Toolbox
-
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">
@@ -107,9 +97,6 @@
 </p>
 
 ---
-
-## 📈 GitHub activity
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashtray01&theme=github-compact&hide_border=true&area=true" width="100%" alt="Ashtray GitHub activity graph">
