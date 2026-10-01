@@ -25,6 +25,7 @@
 
 | Project                                                                 | Что это                                                                                                         | Stack                              |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[M74 Studio](https://github.com/ashtray01/m74studio)**                | Windows-приложение для расшифровки логов OpenDiag / Ителма М74CAN: параметры, графики и экспорт в CSV/TXT.      | `Go` `Windows`                     |
 | **[DirectumLogViewer](https://github.com/ashtray01/DirectumLogViewer)** | Быстрый нативный просмотрщик больших логов Directum RX: фильтрация, live tail, regex, trace ID, поиск и экспорт | `Rust` `Windows`                   |
 | **[PrinterOne](https://github.com/ashtray01/printerone)**               | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отправляет их на локальный принтер | `Go` `Windows` `TCP`               |
 | **[debian_cheat](https://github.com/ashtray01/debian_cheat)**           | Автономная база знаний по Debian: Dev & Deploy, поиск, подсказки и GitHub Pages                                 | `HTML` `CSS` `JavaScript`          |
