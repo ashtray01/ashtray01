@@ -25,6 +25,12 @@
 
 | Project                                                                 | Что это                                                                                                         | Stack                              |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[GridCraft Android](https://github.com/ashtray01/gridcraft-android)** | Неофициальный Android-порт GridCraft: shell-крейт, патч к upstream и подписанный APK arm64-v8a                  | `Rust` `Android` `egui`            |
+| **[WordCraft Android](https://github.com/ashtray01/wordcraft-android)** | Неофициальный Android-порт WordCraft: shell-крейт, патч к upstream и подписанный APK arm64-v8a                  | `Rust` `Android` `egui`            |
+| **[WinDeploy](https://github.com/ashtray01/WinDeploy)**                 | Подготовка рабочих станций Windows 11: инвентаризация, профили, установка ПО, диагностика сети и отчёты         | `Go` `Windows` `WebView2`          |
+| **[Fallout 2 CE (Android)](https://github.com/ashtray01/fallout2-ce)**  | Android-форк Fallout 2 CE: импорт установки с Windows-путями, управление стилусом, свой app ID                  | `C++` `SDL2` `Android`             |
+| **[FartMC](https://github.com/ashtray01/fartmc)**                       | Плагин для Paper/Purpur со звуковыми шалостями и зелёным облачком — моды игрокам не нужны                       | `Java` `Paper/Purpur` `Minecraft`  |
+| **[GenHOI](https://github.com/ashtray01/genhoi)**                       | Локальный самообучающийся агент-стратег для Hearts of Iron IV: наблюдение за игрой, Q-learning и replay         | `Rust` `SQLite` `LLM`              |
 | **[M74 Studio](https://github.com/ashtray01/m74studio)**                | Windows-приложение для расшифровки логов OpenDiag / Ителма М74CAN: параметры, графики и экспорт в CSV/TXT.      | `Go` `Windows`                     |
 | **[DirectumLogViewer](https://github.com/ashtray01/DirectumLogViewer)** | Быстрый нативный просмотрщик больших логов Directum RX: фильтрация, live tail, regex, trace ID, поиск и экспорт | `Rust` `Windows`                   |
 | **[PrinterOne](https://github.com/ashtray01/printerone)**               | Компактный сетевой RAW-сервер печати для Windows: принимает задания по TCP и отправляет их на локальный принтер | `Go` `Windows` `TCP`               |
@@ -76,6 +82,30 @@
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ashtray01/DirectumLogViewer">
         <img src="https://raw.githubusercontent.com/ashtray01/DirectumLogViewer/main/docs/screenshots/ario-log.png" width="100%" alt="Directum Log Viewer ARIO">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ashtray01/m74studio">
+        <img src="https://raw.githubusercontent.com/ashtray01/m74studio/main/m74studio/docs/images/overview.png" width="100%" alt="M74 Studio">
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ashtray01/WinDeploy">
+        <img src="https://raw.githubusercontent.com/ashtray01/WinDeploy/main/docs/images/catalog-beta.png" width="100%" alt="WinDeploy">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ashtray01/fartmc">
+        <img src="https://raw.githubusercontent.com/ashtray01/fartmc/main/docs/images/fartmc-hero.png" width="100%" alt="FartMC">
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ashtray01/mc-countrywars">
+        <img src="https://raw.githubusercontent.com/ashtray01/mc-countrywars/master/docs/images/countrywars-war-banner.png" width="100%" alt="CountryWars">
       </a>
     </td>
   </tr>
