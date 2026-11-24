@@ -25,6 +25,7 @@
 
 | Project                                                                 | Что это                                                                                                         | Stack                              |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[AshProxy](https://github.com/ashtray01/ashproxy)**                   | Прокси для Windows: оболочка на Wails и встроенное ядро 3proxy — HTTP/SOCKS5, подсети, пароль, статистика       | `Go` `Wails` `3proxy` `Windows`    |
 | **[GridCraft Android](https://github.com/ashtray01/gridcraft-android)** | Неофициальный Android-порт GridCraft: shell-крейт, патч к upstream и подписанный APK arm64-v8a                  | `Rust` `Android` `egui`            |
 | **[WordCraft Android](https://github.com/ashtray01/wordcraft-android)** | Неофициальный Android-порт WordCraft: shell-крейт, патч к upstream и подписанный APK arm64-v8a                  | `Rust` `Android` `egui`            |
 | **[WinDeploy](https://github.com/ashtray01/WinDeploy)**                 | Подготовка рабочих станций Windows 11: инвентаризация, профили, установка ПО, диагностика сети и отчёты         | `Go` `Windows` `WebView2`          |
@@ -106,6 +107,18 @@
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ashtray01/mc-countrywars">
         <img src="https://raw.githubusercontent.com/ashtray01/mc-countrywars/master/docs/images/countrywars-war-banner.png" width="100%" alt="CountryWars">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ashtray01/ashproxy">
+        <img src="https://raw.githubusercontent.com/ashtray01/ashproxy/main/desktop/assets/overview.png" width="100%" alt="AshProxy">
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ashtray01/pwdg">
+        <img src="https://raw.githubusercontent.com/ashtray01/pwdg/main/scr/5.11.png" width="100%" alt="pwdg">
       </a>
     </td>
   </tr>
